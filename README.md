@@ -218,7 +218,7 @@ Infosys Springboard · 2024
 
 <br/><br/>
 
-**70+ DSA problems solved**
+**210+ DSA problems solved**
 
 Currently focusing on:
 
